@@ -1,0 +1,10 @@
+lab50:
+  window:
+    - editor
+    - readme
+    - terminal
+  files:
+    - !include instruction.txt
+    - !include problem1.py
+    - !include problem2.py
+    - !include problem3.py
